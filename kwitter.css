@@ -1,0 +1,10 @@
+#login{
+    color: rgb(255, 255, 255);
+    border-radius: 45px;
+}
+#logout{
+    box-align: right;
+}
+body{
+    background-color: rgb(0, 0, 255);
+}
